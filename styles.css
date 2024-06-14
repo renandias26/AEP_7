@@ -10,6 +10,24 @@ body {
     color: deeppink;
 }
 
-.card-big{
+.card-big {
     transform: scale(4);
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 12vh;
+    height: auto;
+}
+
+.min-vh-80 {
+    min-height: 80vh;
+}
+
+iframe {
+    width: 160vh;
+    height: 80vh;
 }
